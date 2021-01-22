@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Program Lista.exe" version="1.0.0.0" publicKeyToken="838b7b3cc9d4390e" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Program Lista" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Program Lista.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Opcje manifestu UAC
+          Jeśli chcesz zmienić poziom kontroli kont użytkowników w systemie Windows, zastąp węzeł 
+          requestedExecutionLevel jednym z następujących.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Jeśli w celu zapewnienia wstecznej zgodności chcesz użyć wirtualizacji plików i rejestru, 
+         usuń węzeł requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Program Lista.exe" size="50640">
+      <assemblyIdentity name="Program Lista" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>rK4N25U49qJYomg4zRdN8yC0INUA8VWY5Vrc+Pzvc+8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Program Lista.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>rl5/qDc7Jz+tB+BIbOv9iMGPlRe6YJwrjmU09dnlPcs=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=Ashur-PC\Ashur" issuerKeyHash="72474025f4b2f8f5959aa4dc805d6be41efadb9c" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>hNUVMoH8SfYUpJS2VOgB3wo96u/Q5kQeFDPWD4LuWaY=</DigestValue></Reference></SignedInfo><SignatureValue>JciwvCa8JbS3iLt+jc5iwoml4WQLVi+b1d9r9ZyZyDwa8sI0ZmwC7CJWZ9wjvb8+mZL9WTxHZdyeEl6NPxuQ8cgGa3k4lCSyPZBCRwsPqeVHF5jUJJy7w48hTvS6Gxc6/e8ZQB9C5wMHxjEdSq+tomZ/RnW0N6lNv3cHNLVVtoo=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>v+obsAe/6z2iMB4LBccrqIvF5qpYJvJzyEbCPHIqXGbYudeoejcftOOvYOm2nlCy9kLmyxfmrp9DUIBfwSa/vKtV3OHRL/DxOaJJGV9QVwHNQuZAaP+Fv6/8/lKxtfbbShfeoYBNzWRvupWz1yDwl5NKUpYy8SaBxca3UJ3BDqs=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="a659ee820fd633141e44e6d0efea3d0adf01e854b694a414f649fc813215d584" Description="" Url=""><as:assemblyIdentity name="Program Lista.exe" version="1.0.0.0" publicKeyToken="838b7b3cc9d4390e" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Ashur-PC\Ashur</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>+vLYOtuU8WFDn+3FwySYsiV3azfDygCqNZNq36oKGc8=</DigestValue></Reference></SignedInfo><SignatureValue>iVo6NiWMjhq7csr+dXULJ3r0Aki1wo7k0GPN7zbB+c2/cze3Px2YJiNANMBiOAEyEe4YWHKJMu7rrSSHcsdKucUEXGrSk0bF48JCfty8fHe5HLh4EYfsalInSe9kqLWaWMNPAPk413nETsRuxDFk+xzTbuZdMXMhauA/RIy86e0=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>v+obsAe/6z2iMB4LBccrqIvF5qpYJvJzyEbCPHIqXGbYudeoejcftOOvYOm2nlCy9kLmyxfmrp9DUIBfwSa/vKtV3OHRL/DxOaJJGV9QVwHNQuZAaP+Fv6/8/lKxtfbbShfeoYBNzWRvupWz1yDwl5NKUpYy8SaBxca3UJ3BDqs=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB0TCCATqgAwIBAgIQUcUYL896tJ5P+8rp5AUYYTANBgkqhkiG9w0BAQsFADAnMSUwIwYDVQQDHhwAQQBzAGgAdQByAC0AUABDAFwAQQBzAGgAdQByMB4XDTIxMDEyMjE0MjY0NVoXDTIyMDEyMjIwMjY0NVowJzElMCMGA1UEAx4cAEEAcwBoAHUAcgAtAFAAQwBcAEEAcwBoAHUAcjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAv+obsAe/6z2iMB4LBccrqIvF5qpYJvJzyEbCPHIqXGbYudeoejcftOOvYOm2nlCy9kLmyxfmrp9DUIBfwSa/vKtV3OHRL/DxOaJJGV9QVwHNQuZAaP+Fv6/8/lKxtfbbShfeoYBNzWRvupWz1yDwl5NKUpYy8SaBxca3UJ3BDqsCAwEAATANBgkqhkiG9w0BAQsFAAOBgQCG1XkCYhUzlrAqHRpyEaoFjD2y3YsgWCx24S1gBKOxTOPVEoTbkY85tXnkGHs5koqLW4gF+4CILU05hL/2xVZE7Wo63MRgFY9vryQ3X9xmpR4kmsYv28cVJcyi4JdClgiepK/9JMYql9dxa4/rR+RoEmFH3n4r77fdfGiEZdgu5w==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

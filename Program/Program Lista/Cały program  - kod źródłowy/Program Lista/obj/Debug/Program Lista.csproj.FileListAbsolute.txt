@@ -1,0 +1,39 @@
+C:\Users\Ashur\Desktop\Program\Program Lista\Program Lista\obj\Debug\Program Lista.csprojAssemblyReference.cache
+C:\Users\Ashur\Desktop\Program\Program Lista\Program Lista\bin\Debug\Program Lista.exe.config
+C:\Users\Ashur\Desktop\Program\Program Lista\Program Lista\bin\Debug\Program Lista.exe
+C:\Users\Ashur\Desktop\Program\Program Lista\Program Lista\bin\Debug\Program Lista.pdb
+C:\Users\Ashur\Desktop\Program\Program Lista\Program Lista\obj\Debug\Program_Lista.Form1.resources
+C:\Users\Ashur\Desktop\Program\Program Lista\Program Lista\obj\Debug\Program_Lista.Properties.Resources.resources
+C:\Users\Ashur\Desktop\Program\Program Lista\Program Lista\obj\Debug\Program Lista.csproj.GenerateResource.cache
+C:\Users\Ashur\Desktop\Program\Program Lista\Program Lista\obj\Debug\Program Lista.csproj.CoreCompileInputs.cache
+C:\Users\Ashur\Desktop\Program\Program Lista\Program Lista\obj\Debug\Program Lista.exe
+C:\Users\Ashur\Desktop\Program\Program Lista\Program Lista\obj\Debug\Program Lista.pdb
+C:\Users\Ashur\Desktop\Program\Program Lista\Program Lista\obj\Debug\Program_Lista.Form2.resources
+C:\Users\Ashur\Desktop\Szkola\Program\Program Lista\Program Lista\obj\Debug\Program Lista.csprojAssemblyReference.cache
+C:\Users\Ashur\Desktop\Szkola\Program\Program Lista\Program Lista\obj\Debug\Program_Lista.Form1.resources
+C:\Users\Ashur\Desktop\Szkola\Program\Program Lista\Program Lista\obj\Debug\Program_Lista.Form2.resources
+C:\Users\Ashur\Desktop\Szkola\Program\Program Lista\Program Lista\obj\Debug\Program_Lista.Properties.Resources.resources
+C:\Users\Ashur\Desktop\Szkola\Program\Program Lista\Program Lista\obj\Debug\Program Lista.csproj.GenerateResource.cache
+C:\Users\Ashur\Desktop\Szkola\Program\Program Lista\Program Lista\obj\Debug\Program Lista.csproj.CoreCompileInputs.cache
+C:\Users\Ashur\Desktop\Szkola\Program\Program Lista\Program Lista\obj\Debug\Program Lista.exe
+C:\Users\Ashur\Desktop\Szkola\Program\Program Lista\Program Lista\obj\Debug\Program Lista.pdb
+C:\Users\Ashur\Desktop\Szkola\Program\Program Lista\Program Lista\bin\Debug\Program Lista.exe.config
+C:\Users\Ashur\Desktop\Szkola\Program\Program Lista\Program Lista\bin\Debug\Program Lista.exe
+C:\Users\Ashur\Desktop\Szkola\Program\Program Lista\Program Lista\bin\Debug\Program Lista.pdb
+C:\Users\Ashur\Desktop\Szkola\Program\Program Lista\Program Lista\obj\Debug\Program_Lista.Form3.resources
+C:\Users\Ashur\Desktop\Szkola\Program\Program Lista\Cały program  - kod źródłowy\Program Lista\bin\Debug\Program Lista.exe.config
+C:\Users\Ashur\Desktop\Szkola\Program\Program Lista\Cały program  - kod źródłowy\Program Lista\bin\Debug\Program Lista.exe.manifest
+C:\Users\Ashur\Desktop\Szkola\Program\Program Lista\Cały program  - kod źródłowy\Program Lista\bin\Debug\Program Lista.application
+C:\Users\Ashur\Desktop\Szkola\Program\Program Lista\Cały program  - kod źródłowy\Program Lista\bin\Debug\Program Lista.exe
+C:\Users\Ashur\Desktop\Szkola\Program\Program Lista\Cały program  - kod źródłowy\Program Lista\bin\Debug\Program Lista.pdb
+C:\Users\Ashur\Desktop\Szkola\Program\Program Lista\Cały program  - kod źródłowy\Program Lista\obj\Debug\Program Lista.csprojAssemblyReference.cache
+C:\Users\Ashur\Desktop\Szkola\Program\Program Lista\Cały program  - kod źródłowy\Program Lista\obj\Debug\Program_Lista.Form1.resources
+C:\Users\Ashur\Desktop\Szkola\Program\Program Lista\Cały program  - kod źródłowy\Program Lista\obj\Debug\Program_Lista.Form2.resources
+C:\Users\Ashur\Desktop\Szkola\Program\Program Lista\Cały program  - kod źródłowy\Program Lista\obj\Debug\Program_Lista.Form3.resources
+C:\Users\Ashur\Desktop\Szkola\Program\Program Lista\Cały program  - kod źródłowy\Program Lista\obj\Debug\Program_Lista.Properties.Resources.resources
+C:\Users\Ashur\Desktop\Szkola\Program\Program Lista\Cały program  - kod źródłowy\Program Lista\obj\Debug\Program Lista.csproj.GenerateResource.cache
+C:\Users\Ashur\Desktop\Szkola\Program\Program Lista\Cały program  - kod źródłowy\Program Lista\obj\Debug\Program Lista.csproj.CoreCompileInputs.cache
+C:\Users\Ashur\Desktop\Szkola\Program\Program Lista\Cały program  - kod źródłowy\Program Lista\obj\Debug\Program Lista.exe.manifest
+C:\Users\Ashur\Desktop\Szkola\Program\Program Lista\Cały program  - kod źródłowy\Program Lista\obj\Debug\Program Lista.application
+C:\Users\Ashur\Desktop\Szkola\Program\Program Lista\Cały program  - kod źródłowy\Program Lista\obj\Debug\Program Lista.exe
+C:\Users\Ashur\Desktop\Szkola\Program\Program Lista\Cały program  - kod źródłowy\Program Lista\obj\Debug\Program Lista.pdb
